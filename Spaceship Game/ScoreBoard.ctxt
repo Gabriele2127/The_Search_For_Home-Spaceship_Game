@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ The\ scoreboard\ pop-up\ at\ the\ end\ depending\ on\ results\ and\ will\ display\r\n\ appropriate\ message\ with\ score.\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=score
+comment2.target=ScoreBoard(int)
+comment2.text=\r\n\ 2\ possible\ outcomes\ for\ scoreboard\ messages.\r\n
+comment3.params=message\ score
+comment3.target=ScoreBoard(java.lang.String,\ int)
+comment4.params=title\ prefix\ score
+comment4.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Scoreboard\ image\ design\r\n
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ The\ Search\ for\ Home\r\n
+comment1.params=
+comment1.target=Level1()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=number
+comment2.target=void\ createStars(int)
+comment2.text=\r\n\ background\ stars\r\n
+comment3.params=count
+comment3.target=void\ addAsteroids(int)
+comment3.text=\r\n\ This\ method\ gets\ called\ in\ the\ constructor\ to\ spawn\ asteroids.\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+comment5.params=
+comment5.target=void\ gameOverWithMessage()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepares\ all\ obstacles.\r\n\ This\ method\ gets\ called\ in\ order\ to\ prepare\ all\ obstacles.\r\n
+comment7.params=
+comment7.target=void\ countScore()
+comment7.text=\r\n\ Score\ counter\ method\ used\ to\ keep\ score\ and\ add\ +1\ for\ every\ enemy\r\n\ destroyed.\r\n
+numComments=8

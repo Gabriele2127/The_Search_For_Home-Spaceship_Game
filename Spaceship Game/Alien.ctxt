@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Alien
+comment0.text=\r\n\ Alien\ enemy\ ship\ that\ only\ appears\ in\ Level2.\r\n
+comment1.params=
+comment1.target=Alien()
+comment2.params=size
+comment2.target=Alien(int)
+comment3.params=size\ speed
+comment3.target=Alien(int,\ Vector)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Alien\ ship\ will\ come\ toward\ the\ player's\ character.\r\n
+comment5.params=size
+comment5.target=void\ setSize(int)
+comment5.text=\r\n\ Set\ the\ size\ of\ this\ Alien\ ship.\ \r\n
+comment6.params=
+comment6.target=int\ getStability()
+comment6.text=\r\n\ Return\ the\ current\ stability\ of\ alien\ ship.\ (If\ it\ goes\ down\ to\ \r\n\ zero,\ it\ breaks\ up.)\r\n
+comment7.params=damage
+comment7.target=void\ hit3(int)
+comment7.text=\r\n\ Hit\ this\ ship\ dealing\ the\ given\ amount\ of\ damage.\r\n
+comment8.params=
+comment8.target=void\ breakUp3()
+comment8.text=\r\n\ Method\ that\ destroyes\ alien\ ship\ when\ player\ destroys\ it.\r\n
+numComments=9

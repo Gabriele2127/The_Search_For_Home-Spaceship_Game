@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ Start\ Screen\ of\ game.\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Calling\ the\ method\ checkKey.\ \r\n
+comment3.params=number
+comment3.target=void\ createStars(int)
+comment3.text=\r\n\ Creating\ the\ space\ background\ by\ adding\ stars.\ \r\n
+comment4.params=
+comment4.target=void\ checkKey()
+comment4.text=\r\n\ Method\ which\ takes\ user\ to\ level\ 1.\ \r\n
+numComments=5
