@@ -1,4 +1,4 @@
-# The_Search_For_Home-Spaceship_Game
+# The Search For Home-Spaceship Game
 
 A spacecrew is gets stranded in the middle of the galaxy and have to make their way back to their home planet, except they will have dangerous encounters with asteroids
 and space pirates.
