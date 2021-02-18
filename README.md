@@ -11,4 +11,4 @@ Good luck!
 
 The game was developed using Greenfoot so in order to see the code, the project would have to run in Greenfoot, 
 OR
-you can see the code in the provided document "..".
+you can see the code in the provided document "The Search For Home - Code.pdf".
